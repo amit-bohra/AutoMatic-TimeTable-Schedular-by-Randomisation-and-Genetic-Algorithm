@@ -56,3 +56,8 @@ This project is a Python script that generates a timetable for various subjects,
 
 - The script uses a genetic algorithm to generate the timetable, which involves creating a population, evaluating fitness, performing crossover, and mutating individuals.
 - The timetable is displayed in a scrollable Tkinter GUI, making it easy to navigate
+
+## Images:
+
+<img src="Screenshot 2024-05-19 at 7.41.32 PM.png"/>
+
